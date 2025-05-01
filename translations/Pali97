@@ -1,0 +1,113 @@
+<l10n>
+	<translationContributors>Pali97</translationContributors>
+	<texts>
+
+		<text name="rw_ui_fog" text="Sűrű köd"/>
+		<text name="rw_ui_hour" text="%s órára" tag="format"/>
+		<text name="rw_ui_hours" text="%s órára" tag="format"/>
+		<text name="rw_ui_minute" text="%s percre" tag="format"/>
+		<text name="rw_ui_minutes" text="%s percre" tag="format"/>
+		<text name="rw_ui_aboutToWither" text="A(z) %s mező hamarosan elszárad" tag="format"/>
+		<text name="rw_ui_hasWithered" text="A(z) %s mező elszáradt" tag="format"/>
+		<text name="rw_ui_currentYield" text="Jelenlegi terméshozam"/>
+		<text name="rw_ui_moisture" text="Nedvesség"/>
+		<text name="rw_ui_witherChance" text="Elszáradás esélye"/>
+		<text name="rw_ui_retention" text="Nedvességmegtartás"/>
+		<text name="rw_ui_idealMoisture" text="Ideális nedvesség"/>
+		<text name="rw_ui_perfectMoisture" text="Tökéletes nedvesség"/>
+		<text name="rw_ui_blizzard_coming" text="Hóvihar közeleg"/>
+		<text name="rw_ui_blizzard_now" text="Hóvihar van folyamatban"/>
+		<text name="rw_ui_drought_coming" text="Aszály közeleg"/>
+		<text name="rw_ui_drought_now" text="Aszály van folyamatban"/>
+		<text name="rw_ui_snowExpected" text="várható: %scm - %scm" tag="format"/>
+		
+		<text name="rw_ui_amount" text="Mennyiség"/>
+		<text name="rw_ui_requiredMoisture" text="Szükséges nedvesség"/>
+		<text name="rw_ui_needsTedding" text="Szétterítés szükséges"/>
+		<text name="rw_ui_yes" text="Igen"/>
+		<text name="rw_ui_no" text="Nem"/>
+
+        <text name="input_Irrigation" text="Öntözés"/>
+        <text name="finance_irrigationUpkeep" text="Öntözés"/>
+        <text name="rw_ui_irrigation_start" text="Öntözés indítása"/>
+        <text name="rw_ui_irrigation_stop" text="Öntözés leállítása"/>
+        <text name="rw_ui_pendingIrrigationCost" text="Függőben lévő öntözési költség"/>
+        <text name="rw_ui_irrigationUpkeep" text="Öntözés fenntartása"/>
+		<text name="rw_ui_inactive" text="Inaktív"/>
+		<text name="rw_ui_active" text="Aktív"/>
+
+		<text name="rw_ui_today" text="Ma"/>
+		<text name="rw_ui_cellWidth" text="Cellaszélesség"/>
+		<text name="rw_ui_cellHeight" text="Cellamagasság"/>
+		<text name="rw_ui_ownedFields" text="Birtokolt mezők"/>
+		<text name="rw_ui_allFields" text="Minden mező"/>
+		<text name="rw_ui_teleport" text="Teleportálás"/>
+		
+		
+		
+		<!--  BEÁLLÍTÁS  -->
+
+
+		<text name="rw_settings" text="Valósághű időjárás"/>
+
+		<text name="rw_settings_off" text="Ki"/>
+		<text name="rw_settings_on" text="Be"/>
+		
+		<text name="rw_settings_witheringEnabled_label" text="Növények elszáradása"/>
+		<text name="rw_settings_witheringEnabled_tooltip_1" text="A növények nem száradnak el az alacsony nedvességtől"/>
+		<text name="rw_settings_witheringEnabled_tooltip_2" text="A növények elszáradnak az alacsony nedvességtől"/>
+		
+		<text name="rw_settings_rebuildMoistureMap_label" text="Nedvességtérkép újraépítése"/>
+		<text name="rw_settings_rebuildMoistureMap_tooltip" text="A nedvességtérkép törlése és újraépítése egyéni beállításokkal"/>
+		<text name="rw_settings_rebuildMoistureMap_text" text="Nedvességtérkép újraépítése"/>
+
+		<text name="rw_settings_performanceIndex_label" text="Teljesítményindex"/>
+		<text name="rw_settings_performanceIndex_tooltip" text="Növelje ezt az értéket a teljesítmény javítása érdekében"/>
+
+		<text name="rw_settings_witheringChance_label" text="Elszáradás esélye"/>
+		<text name="rw_settings_witheringChance_tooltip" text="Az alacsony nedvesség miatti elszáradás valószínűségének módosítása"/>
+
+		<text name="rw_settings_moistureGainModifier_label" text="Nedvességnövekedési szorzó"/>
+		<text name="rw_settings_moistureGainModifier_tooltip" text="Nedvességveszteségi szorzó"/>
+
+		<text name="rw_settings_moistureLossModifier_label" text="Nedvességveszteség módosító"/>
+		<text name="rw_settings_moistureLossModifier_tooltip" text="Változtassa meg az elvesztett nedvesség mennyiségét"/>
+
+		<text name="rw_settings_moistureOverlayBehaviour_label" text="Nedvességfedés"/>
+		<text name="rw_settings_moistureOverlayBehaviour_tooltip_1" text="A nedvességréteg soha nem jelenik meg"/>
+		<text name="rw_settings_moistureOverlayBehaviour_tooltip_2" text="A nedvességfedő csak mezőben jelenik meg"/>
+		<text name="rw_settings_moistureOverlayBehaviour_tooltip_3" text="A nedvességtartalom mindig látható lesz"/>
+		<text name="rw_settings_moistureOverlayBehaviour_texts_1" text="Ki"/>
+		<text name="rw_settings_moistureOverlayBehaviour_texts_2" text="Korlátozott"/>
+		<text name="rw_settings_moistureOverlayBehaviour_texts_3" text="Be"/>
+
+		<text name="rw_settings_moistureFrameBehaviour_label" text="Nedvesség kijelző"/>
+		<text name="rw_settings_moistureFrameBehaviour_tooltip_1" text="A főmenü nedvesség képernyőjén megjelenik a kiválasztott mező összes cellája"/>
+		<text name="rw_settings_moistureFrameBehaviour_tooltip_2" text="A főmenü nedvesség képernyője az egyes mezők átlagos értékeit mutatja (jobb a teljesítmény szempontjából)"/>
+		<text name="rw_settings_moistureFrameBehaviour_texts_1" text="Részletes"/>
+		<text name="rw_settings_moistureFrameBehaviour_texts_2" text="Korlátozott"/>
+
+		<text name="rw_settings_blizzardsEnabled_label" text="Hóviharok"/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_1" text="A hóviharok le vannak tiltva"/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_2" text="A hóviharok engedélyezve vannak"/>
+
+		<text name="rw_settings_droughtsEnabled_label" text="Aszályok"/>
+		<text name="rw_settings_droughtsEnabled_tooltip_1" text="A szárazság le van tiltva"/>
+		<text name="rw_settings_droughtsEnabled_tooltip_2" text="A szárazság engedélyezve van"/>
+
+		<text name="rw_settings_grassMoistureGainModifier_label" text="Fű nedvességnövekedési szorzó"/>
+		<text name="rw_settings_grassMoistureGainModifier_tooltip" text="Módosítsa a nyírt fű nedvességtartalmát"/>
+
+		<text name="rw_settings_grassMoistureLossModifier_label" text="Fű nedvességveszteségi szorzó"/>
+		<text name="rw_settings_grassMoistureLossModifier_tooltip" text="Módosítsa a nyírt fű nedvességveszteségének mértékét"/>
+
+		<text name="rw_settings_puddlesEnabled_label" text="Pocsolyák"/>
+		<text name="rw_settings_puddlesEnabled_tooltip_1" text="A pocsolyák le vannak tiltva"/>
+		<text name="rw_settings_puddlesEnabled_tooltip_2" text="A pocsolyák engedélyezve vannak"/>
+
+		<text name="rw_settings_fireEnabled_label" text="Növénytüzek"/>
+		<text name="rw_settings_fireEnabled_tooltip_1" text="A növénytüzek le vannak tiltva"/>
+		<text name="rw_settings_fireEnabled_tooltip_2" text="A növénytüzek engedélyezve vannak"/>
+		
+	</texts>
+</l10n>
